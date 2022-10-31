@@ -1,0 +1,14 @@
+DZAN_IT KEYS:cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+NFL NETWORK : https://dc1-de-live2dazn.daznedge.net/out/u/dazn-linear-dc1-001.mpd?p=web
+DZAN CHANNEL :https://dc1-de-live2dazn.daznedge.net/out/u/dazn-linear-dc1-002.mpd?p=web
+MILLAN TV: https://dc1-ac-live2.cdn.indazn.com/out/u/dazn-linear-dc1-003.mpd?p=web
+INTER TV: https://dc1-de-live2dazn.daznedge.net/out/u/dazn-linear-dc1-011.mpd?p=web
+EURO SPORTS2 : https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-030/stream.mpd?p=web
+EUROSPRTS 1 : https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-029/stream.mpd?p=web
+
+
+
+
+
+
+
